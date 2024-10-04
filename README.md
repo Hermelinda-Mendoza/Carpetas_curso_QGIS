@@ -1,0 +1,1 @@
+# Carpetas_curso_QGIS
